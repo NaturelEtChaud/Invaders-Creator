@@ -15,7 +15,7 @@ def invaders_creator(long,nb):
         nb est le nombre de lignes
     
     '''
-    # on remplit une tablea 2D de None aux bonnes dimensions
+    # on remplit une tableau 2D de None aux bonnes dimensions
     tab = [[None for i in range(long)] for j in range(nb)]
     # on calcule la médiane
     mediane = round(long/2)
