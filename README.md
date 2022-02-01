@@ -5,4 +5,5 @@ En tant que fan du Jeu [Space Invaders](https://fr.wikipedia.org/wiki/Space_Inva
 Voici mon projet :
 * Créer des *Invaders* en partant d'une moitié gauche par pixels aléatoires et en reproduisant la partie droite par symétrie </br>
 Il devrait y avoir de nombreuses évolutions à cette partie du projet.
-* ... à voir par la suite
+* Transformer une image en pixel art avec des Ruby's Cube comme le fait si bien [Invader](https://www.francetvinfo.fr/culture/arts-expos/street-art/la-joconde-en-rubik-s-cube-de-l-artiste-urbain-invader-s-envole-a-480-000-euros-aux-encheres_3839189.html)
+* ... à suivre
