@@ -12,11 +12,13 @@ Il devrait y avoir de nombreuses évolutions à cette partie du projet.
 # Projet 1 : Créer des personnages pour Space Invaders
 * Une [première version](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/invadors_creator_v1_1.py) est disponible</br>
 Elle permet de créer de manière aléatoire et par symétrie des `Invaders` dans la console.
-* Evolution 1 : créer les `Invaders` au format `png` comme un assemblage de carrés du Rubik's Cube.
+* [Evolution 1 :](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/rubiks_cube_v2.py) créer les `Invaders` au format `png` comme un assemblage de carrés du Rubik's Cube. *(Done)*
 * Evolution 2 : créer un menu pour que l'utilisateur crée des `Invaders` jusqu'à ce qu'il obtienne un résultat satisfaisant.
 * Evolution 3 : créer une base au format `txt` de tous les `Invaders` qui ont été créés et validés.
-![](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/Invaders/invader0001.png)|
-![](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/Invaders/invader0010.png)|![](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/Invaders/invader0100.png)|![](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/Invaders/invader1000.png)
+![](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/Invaders/invader0001.png)
+![](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/Invaders/invader0010.png)
+![](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/Invaders/invader0100.png)
+![](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/Invaders/invader1000.png)
 
 ---
 
