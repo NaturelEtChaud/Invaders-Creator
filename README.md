@@ -9,7 +9,7 @@ Il devrait y avoir de nombreuses évolutions à cette partie du projet.
 
 ---
 
-# Projet 1 : Créer des personnages pour Space Invaders
+# Projet 1 : Créer des aliens pour Space Invaders
 * Une [première version](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/invadors_creator_v1_1.py) est disponible</br>
 Elle permet de créer de manière aléatoire et par symétrie des `Invaders` dans la console.
 * [Evolution 1 :](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/rubiks_cube_v2.py) créer les `Invaders` au format `png` comme un assemblage de carrés du Rubik's Cube. *(Done)*
