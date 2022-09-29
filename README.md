@@ -25,7 +25,7 @@ Elle permet de créer de manière aléatoire et par symétrie des `Invaders` dan
 # Projet 2 : Modifier une image pour obtenir une mosaique de Rubik's Cube
 * Une [première version](https://github.com/NaturelEtChaud/Invaders-Creator/blob/main/rubiks_cube_v1.py) est disponible</br>
 Elle permet de modifier une image en donnant la taille du carré du Rubik's Cube souhaité.
-* Evolution 1 : créer une liste des images de référence du Rubik's Cube et pour les charger dès le départ pour ne pas avoir à charger la bonne image à chaque fois. Ceci devrait faire gagner un temps considérable à l'exécution du programme.
+* Evolution 1 : créer une liste des images de référence du Rubik's Cube pour les charger dès le départ pour ne pas avoir à charger la bonne image à chaque fois. Ceci devrait faire gagner un temps considérable à l'exécution du programme.
 * Evolution 2 : ne plus utiliser les images, mais les dessiner, on devrait à nouveau pouvoir gagner du temps sur l'éxécution du programme.
 * Evolution 3 : proposer l'option `gif animé`. (Pour le moment, j'ai effectué le `gif` à la main avec le logiciel GIMP une fois que j'ai récupéré toutes les images)
 * Evolution 4 : tiens si j'ai vraiment du temps. Réécrire le script pour GIMP.
